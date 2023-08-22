@@ -28,6 +28,8 @@ This project features a customizable Portfolio template made using React with th
 2. Assets folder -  Changing this will change the assets used across the project. Please make sure to use Items of the same dimension.
 3. `style.css` - Change this to customize the CSS/styling of the project
 
+### Deploy the React app to Github following this - https://github.com/gitname/react-gh-pages
+
 
 
 ### Credits
